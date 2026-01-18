@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: simran6023/gitops-clean-app:v1
+        image: ssimran602366879/gitops-clean-app:v1
         ports:
         - containerPort: 80
